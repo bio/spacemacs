@@ -1,0 +1,11 @@
+#+TITLE: README2
+
+* section 1
+
+* OS X
+  :PROPERTIES:
+  :CUSTOM_ID: os-x
+  :END:
+
+  text
+
